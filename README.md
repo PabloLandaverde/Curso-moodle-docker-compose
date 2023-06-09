@@ -8,7 +8,7 @@
 
 1. Clonar el repositorio al directorio local de instalación https://github.com/PabloLandaverde/Curso-moodle-docker-compose.git
 
-    $ git clone 
+    $ git clone https://github.com/PabloLandaverde/Curso-moodle-docker-compose.git
     
     $ cd Curso-moodle-docker-compose
     
